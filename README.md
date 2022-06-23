@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming languages, Ethical Hacking, and Artificial Intelligence......
 - 🌱 I’m currently learning Python, web development much more......
 - 👨‍🎓 I'm B.E.CSE Studnet @ C. Abdul Hakeem College of Engineering and Technology, Melvisharam
-- 📫 How to reach me mail me: thalha.cse@gmail.com
+- 📫 How to reach me mail me: jmdthalha.cse@gmail.com
 
 <!---
 Mohammed-Thalha/Mohammed-Thalha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
